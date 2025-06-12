@@ -96,3 +96,16 @@ Bu proje sonucunda, farklı özellik mühendisliği teknikleri ve makine öğren
 * Farklı ensemble teknikleri (örneğin, stacking) denenebilir.
 * Optuna ile LightGBM ve CatBoost için de kapsamlı hiperparametre optimizasyonu yapılabilir.# taskin-tahmin-modeli
 Zaman serisi ve görüntü özellikleri kullanılarak geliştirilen taşkın tahmini modeli
+
+## 📞 İletişim
+
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 E-posta: [mehmetaksoy49@gmail.com]
+
+- Pull Request ile katkıda bulunun
+- Projeyi yıldızlamayı unutmayın! ⭐
+
+---
+
+**Not**: Bu proje eğitim amaçlı geliştirilmiştir ve akademik çalışmalarda referans olarak kullanılabilir.
